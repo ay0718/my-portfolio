@@ -65,6 +65,7 @@ const skills = [
   'Google 広告ディスプレイ広告認定資格',
   'Creative 認定試験',
   'インバウンド認定資格(hubspot)',
+  'Google SEO Fundamentals(University of California)',
 ]
 
 const contact = {
